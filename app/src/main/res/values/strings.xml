@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BluetoothModule</string>
+
+    <string name="hello_main_fragment">Connect</string>
 </resources>
